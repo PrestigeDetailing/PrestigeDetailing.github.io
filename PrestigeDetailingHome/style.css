@@ -231,6 +231,13 @@ hr {
     font-size: 16px;
 }
 
+.services-1 ul {
+    text-align: center;
+    margin: 40px;
+    font-size: 20px;
+    color: #ffffff;
+}
+
 .footer-bg {
     background-position: center center;
     background-repeat: no-repeat;
