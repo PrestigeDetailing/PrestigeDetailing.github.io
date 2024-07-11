@@ -294,6 +294,9 @@ textarea {
     height: 1px;
 }
 
+.footer-txt a {
+        color: #ffffff;
+    } 
 
 @media(max-width:991px) {
     .menu {
