@@ -422,6 +422,10 @@ textarea {
         color: #ffffff;
     }
 
+    .logo {
+        margin-bottom: -10px;
+    }
+
 }
 
 
